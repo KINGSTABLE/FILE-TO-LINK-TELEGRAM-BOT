@@ -1,0 +1,7 @@
+requests
+termcolor
+telegram
+python-telegram-bot
+pyrogram
+aiogram
+aiohttp
