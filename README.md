@@ -20,15 +20,26 @@ This is an open-source Telegram bot that lets users send files and receive insta
 
 ---
 
-📦 Scaling to 2–4 GB Files
+## 📦 Scaling to 2–4 GB Files
 This bot is currently optimized for servers with limited resources (512MB–1GB RAM). However, to support uploads up to 2–4 GB, a minimum of 4 GB RAM is recommended
 
 
 
-🤝 Sponsorship
+## 🤝 Sponsorship
 This bot is proudly sponsored by Zeabur, a powerful platform for deploying modern web services.
 
 Every download link shared includes a custom message:
+🌟 Proudly Powered by Zeabur - Your go-to platform for seamless app deployment 🌟
+
+
+## ✨ Author
+Made with ❤️ by Harsh Sharma
+
+
+## 📜 License
+This project is licensed under the MIT License.
+
+
 
 
 
