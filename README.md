@@ -56,15 +56,15 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 
 3. **Install Required Libraries**:
    - Open a terminal or command prompt in the `file-to-link-bot` folder.
-   - Install the necessary Python libraries:
+   - Install all required libraries using the `requirements.txt` file:
      ```bash
-     pip install pyrogram aiohttp
+     pip install -r requirements.txt
      ```
-   - **Optional**: For better file type detection (especially on Windows):
+   - **Windows Users (Optional)**: For better file type detection, install `python-magic`:
      ```bash
      pip install python-magic
      ```
-   - **Troubleshooting**: If `pip` doesn’t work, try `pip3` or ensure Python is added to your system’s PATH.
+   - **Troubleshooting**: If `pip` doesn’t work, try `pip3` or ensure Python is added to your system’s PATH. If you see errors, make sure you’re in the correct folder with `requirements.txt`.
 
 4. **Set Up API Credentials**:
    - Open the `file_to_link_bot.py` file in a text editor (like Notepad or VS Code).
