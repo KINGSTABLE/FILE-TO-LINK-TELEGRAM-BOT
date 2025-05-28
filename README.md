@@ -11,7 +11,7 @@ This is an open-source Telegram bot that lets users send files and receive insta
 
 ## 🚀 Features
 
-- Accepts file uploads up to 600 MB (scalable to 2–4 GB)
+- Accepts file uploads up to (2–4 GB)
 - Uploads files to Gofile.io cloud storage
 - Returns a secure download link to the user
 - Shows a Zeabur sponsorship banner with each link
@@ -107,7 +107,7 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 
 ## Usage
 1. Open Telegram and start the bot by sending `/start`.
-2. Send a file (document, video, audio, or photo) up to 600 MB.
+2. Send a file (document, video, audio, or photo) up to (2–4 GB).
 3. Wait for the bot to upload the file to Gofile.io.
 4. Get a secure download link in the chat, like this:
    ```
@@ -118,9 +118,6 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 
   ---
 
-## 📦 Scaling to 2–4 GB Files
-This bot is currently optimized for servers with limited resources (512MB–1GB RAM). However, to support uploads up to 2–4 GB, a minimum of 4 GB RAM is recommended
-
 
 
 ## 🤝 Sponsorship
@@ -128,10 +125,12 @@ This bot is proudly sponsored by Zeabur, a powerful platform for deploying moder
 
 Every download link shared includes a custom message:
 🌟 Proudly Powered by Zeabur - Your go-to platform for seamless app deployment 🌟
+---
 
 
 ## ✨ Author
 Made with ❤️ by Harsh Sharma
+---
 
 
 ## 📜 License
