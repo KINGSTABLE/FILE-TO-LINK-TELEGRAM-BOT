@@ -42,8 +42,8 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 1. **Get the Code**:
    - Clone the repository to your computer.
      ```bash
-     git clone https://github.com/YOUR_USERNAME/file-to-link-bot.git
-     cd file-to-link-bot
+     git clone https://github.com/KINGSTABLE/FILE-TO-LINK-TELEGRAM-BOT.git
+     cd FILE-TO-LINK-TELEGRAM-BOT
      ```
    - **No Git?** Download the code as a ZIP from the GitHub page and unzip it.
 
