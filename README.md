@@ -123,6 +123,7 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 ## 🤝 Sponsorship
 This bot is proudly sponsored by Zeabur, a powerful platform for deploying modern web services.
 
+
 Every download link shared includes a custom message:
 🌟 Proudly Powered by Zeabur - Your go-to platform for seamless app deployment 🌟
 ---
