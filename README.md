@@ -132,6 +132,7 @@ Follow these steps to get the bot up and running. No coding experience? No probl
 
 ## ✨ Author
 Made with ❤️ by Harsh Sharma
+@KINGS_TABLE
 ---
 
 
